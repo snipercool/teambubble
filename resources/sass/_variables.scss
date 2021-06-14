@@ -1,0 +1,21 @@
+// Body
+$primary-white: #f8fafc;
+$secondary-white: #FFF;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$primary-black: #000;
+$secondary-black: #495969;
+$gray : #707070;
+$blue: #2580EB;
+$red: #E22222;
+$yellow: #FFD900;
+$blue-text: #2580EB;
+$blue-input: mix($blue, $primary-white, 90%);
+
+
+$transition-speed: 600ms ease-in-out;

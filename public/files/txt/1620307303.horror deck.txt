@@ -1,0 +1,28 @@
+misshapen fiend - 4
+nighthowler - 1
+chupachabra - 4
+weirded vampire - 1
+abomination - 1
+scrounger of souls - 1
+corrupted harvester- 1
+nether born phalanx - 1
+Sinuous Vermin - 2
+creatures 14
+
+spells 24
+battle of the bridge - 2  
+Curse of Misfortunes -2
+bond of agony - 1
+bad moon - 3
+feast of dreams - 2
+unhallowed pact - 2
+dragazan anthem - 2 (niet in outpost)
+Curse of Misfortunes - 2
+Curse of the Pierced Heart - 2
+Curse of Thirst - 2
+Trespasser's Curse - 2
+Cruel Reality - 2
+land 20
+
+swamp - 20
+
